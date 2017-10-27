@@ -1,0 +1,17 @@
+{
+  "name": "serverless-lambda-chaining",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "aws-sdk-mock": "^1.7.0",
+    "chai": "^4.1.2",
+    "lambda-tester": "^3.1.0",
+    "mocha": "^4.0.1",
+    "serverless-mocha-plugin": "^1.7.0"
+  },
+  "author": "MeBNoah",
+  "license": "ISC"
+}
