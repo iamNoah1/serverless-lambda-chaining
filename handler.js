@@ -5,7 +5,7 @@ var aws = require('aws-sdk')
 module.exports.hello = (event, context, callback) => {
   var lambda = new aws.Lambda()
   var opts = {
-    FunctionName: 'lambda-chaining-dev-ciao' // service-stage-function
+    FunctionName: 'lambda-chaining-dev-ciao' // schema: service-stage-function
   }
 
   lambda.invoke(opts, function (err, data) {
