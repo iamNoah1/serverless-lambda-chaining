@@ -21,7 +21,7 @@ Now you could invoke the Lambda with `serverless invoke -f hello -l` if everyth
 
 ## Test
 
-* `AWS_REGION=eu-west-1 mocha`
+* `AWS_REGION=eu-west-1 npm test`
 
 
 ## Undeploy
