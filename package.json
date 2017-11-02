@@ -4,7 +4,9 @@
   "scripts": {
     "test": "mocha"
   },
-  "dependencies": {},
+  "dependencies": {
+    "aws-sdk": "^2.142.0"
+  },
   "devDependencies": {
     "aws-sdk-mock": "^1.7.0",
     "chai": "^4.1.2",
