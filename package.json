@@ -10,7 +10,8 @@
     "chai": "^4.1.2",
     "lambda-tester": "^3.1.0",
     "mocha": "^4.0.1",
-    "serverless-mocha-plugin": "^1.7.0"
+    "serverless-mocha-plugin": "^1.7.0",
+    "serverless-offline": "^3.16.0"
   },
   "author": "MeBNoah",
   "license": "ISC"
